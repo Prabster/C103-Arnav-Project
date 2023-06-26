@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(50, 70, 170);
+    color:white;
+}
+hr {
+    border-color:rgb(255, 0, 0);
+    border-width:3px;
+}
+#camera{
+    border:3px dotted rgb(115, 220, 185);
+    width:380;
+    height:355px;
+}
+#result {
+    border:3px dotted rgb(115, 220, 185);
+    width:380;
+    height:355px;
+    margin-bottom:30px;
+}
